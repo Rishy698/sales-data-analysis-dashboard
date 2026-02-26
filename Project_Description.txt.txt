@@ -1,0 +1,26 @@
+Project Title: Sales Performance Analysis Dashboard
+
+Tools Used: Power BI and Excel
+
+Dataset: Sales dataset
+
+Project Overview:
+Developed an interactive Power BI dashboard to analyze sales performance across different categories and time periods.
+
+Key Features:
+- Created a KPI card to display total sales.
+- Built a bar chart for category wise sales analysis.
+- Designed a line chart to analyze monthly sales trends.
+- Added an interactive slicer for category based filtering.
+
+Data Analysis Process:
+- Transform and Load the dataset in Power BI.
+- Identified patterns and trends using visualizations.
+
+Key Insights:
+- December recorded the highest sales, indicating strong seasonal demand.
+- Sales trends showed monthly fluctuations across the year.
+- Category wise comparison helped identify top performing segments.
+
+Conclusion:
+This project demonstrates end-to-end data analysis workflow including data loading, visualization, dashboard creation, and business insight generation using Power BI.
